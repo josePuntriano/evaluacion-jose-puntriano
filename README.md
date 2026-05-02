@@ -41,7 +41,7 @@ git clone https://github.com/josePuntriano/evaluacion-jose-puntriano.git
 
 2. Reemplaza tu API key en `ApiReqresSteps.java`:
 ```java
-.header("x-api-key", "TU_API_KEY_AQUI")
+.header("x-api-key", "TU_API_KEY_AQUI") //Se ingresa el API Key generado en el punto 4 de "Requisitos previos"
 ```
 
 ## Ejecución
